@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <jnlp spec="1.0+" 
-        codebase="https://github.com/hany98/Public"
+        codebase="https://github.com/hany98/Public/blob/master/"
         href="HanZu.jnlp">
 		
     <information>
